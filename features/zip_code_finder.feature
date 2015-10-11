@@ -24,6 +24,3 @@ Feature: Zip code finder
     |                 address           |city         |state                    |
     |1600 Pennsylvania Avenue Northwest |Washington   |DC - District of Columbia|
     | 1801 23rd Ave                     |San Francisco|CA - California          |
-
-
-

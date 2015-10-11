@@ -1,0 +1,2 @@
+login_tests: --format html --out report.html --format pretty --tags @login
+tracking_tests: --format html --out report.html --format pretty --tags @tracking
